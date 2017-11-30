@@ -1,13 +1,14 @@
-Directories:
 
-	++ models
-		This directory contains all LSTM & GRU models, their results. For more information look at the README in the directory
+Models
+	This directory contains all LSTM & GRU models and their results. 
 
-	++ preprocessing
-		All codes we have written for preprocessing the twitter dump. For more information look at the README in the directory
+Preprocessing
+	This directory contains all codes we have written for preprocessing the twitter dump.
 
-	++ stats
-		stats directory contains codes which displays the statistics of frequencies of words of every hashtag. For more information look at the README in the directory
+Stats
+	This directory contains codes which display the statistics of the frequencies of words of every hashtag. 
 
-	++ train 
-		Train directory contains codes which prepares the training files for the model. For more information look at the README in the directory
+Train 
+	This directory contains codes which prepare the training files for the model.
+
+For more information look at the README in the corresponding directory.
